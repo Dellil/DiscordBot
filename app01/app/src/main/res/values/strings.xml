@@ -1,0 +1,7 @@
+<resources>
+    <!--<string name="app_name">30111 JCH</string>-->
+    <string name="main_title">DISCORD IMAGE VIEWER</string>
+    <string name="main_button">시작하기</string>
+    <string name="list_title">IMAGES</string>
+    <string name="download">DOWNLOAD</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631227122626",
+    "firebase_url": "https://discordbot-a04b9.firebaseio.com",
+    "project_id": "discordbot-a04b9",
+    "storage_bucket": "discordbot-a04b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631227122626:android:25a65130c63c2794",
+        "android_client_info": {
+          "package_name": "com.example.user.myapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631227122626-mr4stitpq4raoecubvsrsq07r1k22mia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb_wq45zWwIsJ7bPPK-Q5LfSP2l1JEzqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631227122626-mr4stitpq4raoecubvsrsq07r1k22mia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
