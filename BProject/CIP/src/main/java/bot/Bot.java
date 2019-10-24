@@ -10,7 +10,7 @@ import net.dv8tion.jda.core.hooks.ListenerAdapter;
 import javax.security.auth.login.LoginException;
 
 public class Bot extends ListenerAdapter {
-    private static String token = "NTgyMDk1NTk0NDQ5OTI4MTky.XOpcEQ.lMuK5JjOVmPSxrxlmz8hCyM4RT0";
+    private static String token = "APIKEY";
 
     public static void main(String args[]) throws LoginException {
         try {
